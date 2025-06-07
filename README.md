@@ -27,4 +27,21 @@ python chatbot/chatbot_gradio.py
 - Modifique os treinos em `app/treino.py` conforme sua necessidade.
 - Ajuste o cronômetro em `app/cronometro.py`.
 
+# Organizador de Treino GPT 🚀
+
+Um assistente virtual para organizar treinos de academia, com cronômetro, integração com o Google Calendar e chatbot interativo.
+
+## 📦 Funcionalidades
+✅ Gerar treino com grupos musculares  
+✅ Cronômetro de exercícios  
+✅ Sincronização com o Google Calendar  
+✅ Chatbot interativo com Gradio
+
+## 🚀 Como executar
+```bash
+git clone https://github.com/seu_usuario/meu_assistente_treino.git
+cd meu_assistente_treino
+pip install -r requirements.txt
+python main.py
+
 Divirta-se e bons treinos! 💪🚀
